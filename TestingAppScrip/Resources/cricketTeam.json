@@ -1,0 +1,82 @@
+[
+    {
+        "team": "India",
+        "players": [
+            {
+                "name": "Virat Kholi",
+                "age": 33,
+                "country": "India",
+                "battingStyle": "Right handed",
+                "category": "Batsman"
+            },
+            {
+                "name": "Rohit Sharma",
+                "age": 34,
+                "country": "India",
+                "battingStyle": "Right handed",
+                "category": "Batsman"
+            },
+            {
+                "name": "KL Rahul",
+                "age": 29,
+                "country": "India",
+                "battingStyle": "Right handed",
+                "category": "Wicket keeper"
+            },
+            {
+                "name": "MS Dhoni",
+                "age": 40,
+                "country": "India",
+                "battingStyle": "Right handed",
+                "category": "Wicket keeper"
+            },
+            {
+                "name": "Hardik Pandya",
+                "age": 28,
+                "country": "India",
+                "battingStyle": "Right handed",
+                "category": "All rounder"
+            }
+        ]
+    },
+    {
+        "team": "New Zealand",
+        "players": [
+            {
+                "name": "Kane Williamson",
+                "age": 31,
+                "country": "New Zealand",
+                "battingStyle": "Right handed",
+                "category": "Batsman"
+            },
+            {
+                "name": "Ish Sodhi",
+                "age": 29,
+                "country": "New Zealand",
+                "battingStyle": "Right handed",
+                "category": "Bowler"
+            },
+            {
+                "name": "Trend Boult",
+                "age": 32,
+                "country": "New Zealand",
+                "battingStyle": "-",
+                "category": "Bowler"
+            },
+            {
+                "name": "Glenn Phillips",
+                "age": 25,
+                "country": "New Zealand",
+                "battingStyle": "Right handed",
+                "category": "All rounder"
+            },
+            {
+                "name": "Martin Guptil",
+                "age": 35,
+                "country": "New Zealand",
+                "battingStyle": "Right handed",
+                "category": "Batsman"
+            },
+        ]
+    }
+]
